@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * - Ideas
+ * $auth = new LoginAuth($email, $pass, $args);
+ * if ($auth->is('loggedin'));
+ * if ($auth->has('permission', 'blog'));
+ * 
+ */
+
 namespace LoginAuth;
 
 class LoginAuth {
