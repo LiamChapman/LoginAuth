@@ -1,4 +1,6 @@
 LoginAuth
 =========
 
-A simple script for logins and authorisation.
+# WORK IN PROGRESS!
+
+A simple script for logins and authorisation. 
